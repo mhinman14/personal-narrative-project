@@ -31,7 +31,8 @@ Record a short video of your story to display here on your README. You can do th
 - Upload the thumbnail image to your repo.
 - Use the following markdown
 
-[![Thumbnail for my projet](![alt text](image-1.png))]([(https://youtube.com/shorts/0izkrA0ahE8)
+[[Thumbnail for my projet](![alt text](image-2.png))]([youtube-URL-here](https://www.youtube.com/shorts/0izkrA0ahE8))
+
 
 ## Story Description
 In this story, the user is trying to figure out where to go on their vacation for the summer. The app outputs different options such as the Bahamas, Paris, London, and Bora Bora, which is what data is stored in my 2D arrays and is what is outputted when you press run.
